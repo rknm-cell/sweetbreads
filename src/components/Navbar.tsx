@@ -12,7 +12,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-brand">
         <a href="/" className="navbar-logo">
-          Logo
+          Sweetbreads
         </a>
       </div>
 
@@ -25,6 +25,8 @@ const Navbar = () => {
           <li><a href="/">Home</a></li>
           <li><a href="/shows">Upcoming Dates</a></li>
           <li><a href="/gallery">Gallery</a></li>
+          <li><a href="/music">Music</a></li>
+          <li><a href="/socials">Socials</a></li>
           <li><a href="/contact">Contact</a></li>
         </ul>
       </div>
